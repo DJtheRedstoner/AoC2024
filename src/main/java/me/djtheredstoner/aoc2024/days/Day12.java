@@ -114,8 +114,6 @@ public class Day12 implements DayBase {
                 }
 
                 cost += area * count;
-                System.out.println(current);
-                System.out.println(count);
             }
         }
         System.out.println(cost);
